@@ -1,5 +1,5 @@
-AMD-SMML-project
-================
+Ridge Regression model from scratch with Hadoop
+===============================================
 |colab|
 
 This repository contains the project developed for the courses **Algorithms for
